@@ -20,6 +20,7 @@ Publications
 <ul>
   <li>Qiuyu Zhu, <b>Liang Zhang<sup>&dagger;</sup></b>, Qianxiong Xu, Kaijun Liu, Cheng Long, and Xiaoyang Wang. HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning. In <i>International Conference on Web Search and Data Mining </i> <b>(WSDM 2025)</b></li>
   <li><b>Liang Zhang</b>, Guannan Liu, Xiaohui Liu, and Junjie Wu. Denoising Item Graph with Disentangled Learning for Recommendation. In <i>IEEE Transactions on Knowledge and Data Engineering </i> <b>(TKDE 2024)</b> </li>
+  <li><b>Liang Zhang</b>, and Cheng Long. Road Network Representation Learning: A Dual Graph based Approach. In <i>ACM Transactions on Knowledge Discovery from Data </i> <b>(TKDD 2023)</b> </li>
 </ul>
 
 
