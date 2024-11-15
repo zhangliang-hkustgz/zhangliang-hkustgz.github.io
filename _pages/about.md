@@ -60,4 +60,7 @@ Conference and Workshop Presentations
 
 Academic Activities
 ======
-1. ddd
+<ul>
+  <li><b>Conference Reviewer:</b></li>
+  <li><b>Journal Reviewer:</b></li>
+</ul>
