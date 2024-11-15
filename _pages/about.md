@@ -15,9 +15,10 @@ I am always open to research collaborations. Please feel free to drop me an emai
 
 Publications
 ======
+(<sup>*</sup> co-first author; <sup>&#x271D</sup> corresponding author)
 
 <ul>
-  <li>Qiuyu Zhu, <b>Liang Zhang<sup>*</sup> </b>, Qianxiong Xu, Kaijun Liu, Cheng Long, and Xiaoyang Wang. HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning. In <i>International Conference on Web Search and Data Mining </i> <b>(WSDM 2025)</b></li>
+  <li>Qiuyu Zhu, <b>Liang Zhang<sup>*</sup></b>, Qianxiong Xu, Kaijun Liu, Cheng Long, and Xiaoyang Wang. HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning. In <i>International Conference on Web Search and Data Mining </i> <b>(WSDM 2025)</b></li>
 </ul>
 
 
