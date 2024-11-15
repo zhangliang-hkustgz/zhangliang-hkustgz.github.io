@@ -9,6 +9,10 @@ redirect_from:
 
 I am a Associate Research Fellow at HEC Paris, France, working with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/LI-Xitong"> Prof. Xitong Li </a>. I received my Ph.D degree in Computer Science from NTU, Singapore, supervised by <a href="https://personal.ntu.edu.sg/c.long/"> Prof. LONG Cheng. </a> I received my Master's degree in Information System from Beihang University, Beijing, China, in 2020.
 
+My primary research interests are in the data mining, graph neural network, large language model, and applied AI (with a focus on developing effective ML methods to solve practical business and society problems). My primary research methods include deep learning, field and laboratory experiments.
+
+I am always open to research collaborations. Please feel free to drop me an email if you are interested.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
