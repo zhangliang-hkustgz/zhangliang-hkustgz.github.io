@@ -61,6 +61,13 @@ Conference and Workshop Presentations
 Academic Activities
 ======
 <ul>
-  <li><b>Conference Reviewer:</b></li>
-  <li><b>Journal Reviewer:</b></li>
+  <li><b>Conference Reviewer:KDD, ICDE, VLDB, CIKM, PAKDD, SIGSPATIAL, WebConf</b></li>
+  <li><b>Journal Reviewer:TKDE, TKDD, TIST, TNNLS, Information Science, IPM</b></li>
+</ul>
+
+Industry Experience
+======
+<ul>
+  <li>ByteDance, Baidu Research-BIL
+</li>
 </ul>
