@@ -51,7 +51,7 @@ Conference and Workshop Presentations
 <ul>
   <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Money May Be No Object: Modeling Reference-dependent Choices with Graph Neural Networks for Recommendation. In <i>Conference on Information Systems and Technology</i> <b>(CIST 2024)</b>.</li>
   <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Personalized Bundle Design: A Hypergraph-based Approach with Psychological Distance Awareness. In <i>INFORMS Workshop on Data Science</i> <b>(WDS 2024)</b>.</li>
-  <li>Guannan Liu, <b>Liang Zhang</b>, Junjie Wu and Xiao Fang. Recommendation with Attribute-aware Product Networks: A Representation Learning Model. In <i>INFORMS Workshop on Data Science</i> <b></b>(WDS 2020)</li>.</li>
+  <li>Guannan Liu, <b>Liang Zhang</b>, Junjie Wu and Xiao Fang. Recommendation with Attribute-aware Product Networks: A Representation Learning Model. In <i>INFORMS Workshop on Data Science</i> <b>(WDS 2020)</b>.</li>
   <li>Xueqian Li, <b>Liang Zhang</b>, Guannan Liu, and Junjie Wu. Content-enhanced Bayesian Personalized Ranking. In <i>Proceedings of International Conference on Service Systems and Service Management</i> <b>(ICSSSM 2019)</b>.</li>
   <li><b>Liang Zhang</b>, Guannan Liu, Xin Wan, Junjie Wu, and Peng Li. Temporal Item Embedding with Static Similarity Regularization for Sequential Recommendation. In <i>Proceedings of International Conference on Service Systems and Service Management</i> <b>(ICSSSM 2018)</b>.</li>
 </ul>
