@@ -32,7 +32,8 @@ Papers Under Review
 ======
 <ul>
   <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Money May Be No Object: Modeling Reference-dependent Choices with Graph Neural Networks. In 1st-round <b>major revision</b> at <i>Management Science</i> <b>(MS)</b>.</li>
-  <li>Qiuyu Zhu, <b>Liang Zhang<sup>&dagger;</sup></b>, Qianxiong Xu and Cheng Long. HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks. Under Review at <i>The Web Conference</i> <b>{WWW 2025)</b></li>
+  <li>Qiuyu Zhu, <b>Liang Zhang<sup>&dagger;</sup></b>, Qianxiong Xu and Cheng Long. HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks. Under Review at <i>The Web Conference</i> <b>{WWW 2025)</b>.</li>
+  <li><b>Liang Zhang</b>, Zhe Xu, Shijie Zhang, Yuan Li, Zheng Zhang and Xitong Li. SAID: Structure-Aware Pretraining for Few-Shot Query Intent Detection. Under Review at <i>The Web Conference</i> <b>(WWW 2025)</b></li>
 </ul>
 
 Working Papers
