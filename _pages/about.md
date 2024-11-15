@@ -13,6 +13,10 @@ My primary research interests are in the data mining, graph neural network, larg
 
 I am always open to research collaborations. Please feel free to drop me an email if you are interested.
 
+
+
+
+<!--  
 Publications (Selected)
 ======
 <p> (<sup>#</sup> indicates that Liang is the co-first author, <sup>&dagger;</sup> indicates that Liang is the corresponding author) </p>
@@ -43,9 +47,7 @@ Working Papers
 <ul>
   <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Personalized Bundle Design: A Hypergraph-based Approach with Psychological Distance Awareness. To be submitted to <i>Marketing Science</i> <b>(MKSC)</b>.</li>
   <li>Xiaohui Liu, Yujing Ma, <b>Liang Zhang</b>, Wei Ma, and Hock-Hai Teo. The Effect of Dynamic AI Surge Pricing on Passengers’ Tipping Behavior in Ride-hailing Service: An Empirical Evidence from Uber Platform. To be submitted to <i>Management Science</i> <b>(MS)</b>.</li>
-
-<!--   <li>Xiaohui Liu, Jiamin Yin, <b>Liang Zhang</b> and Hock-Hai Teo. Are Two Better than One? Incorporating Multiple AI Advice in Work Process Design in Investment Decision-making. To be submitted to <i>Management Science</i> <b>(MS)</b>.</li> -->
-
+  <li>Xiaohui Liu, Jiamin Yin, <b>Liang Zhang</b> and Hock-Hai Teo. Are Two Better than One? Incorporating Multiple AI Advice in Work Process Design in Investment Decision-making. To be submitted to <i>Management Science</i> <b>(MS)</b>.</li> 
 </ul>
 
 Conference and Workshop Presentations
@@ -79,3 +81,4 @@ Industry Experience
   <li>ByteDance, Baidu Research-BIL
 </li>
 </ul>
+-->
