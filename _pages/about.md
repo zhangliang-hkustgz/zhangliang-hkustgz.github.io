@@ -56,13 +56,19 @@ Conference and Workshop Presentations
   <li><b>Liang Zhang</b>, Guannan Liu, Xin Wan, Junjie Wu, and Peng Li. Temporal Item Embedding with Static Similarity Regularization for Sequential Recommendation. In <i>Proceedings of International Conference on Service Systems and Service Management</i> <b>(ICSSSM 2018)</b>.</li>
 </ul>
   
-  
-
 Academic Activities
 ======
 <ul>
-  <li><b>Conference Reviewer:KDD, ICDE, VLDB, CIKM, PAKDD, SIGSPATIAL, WebConf</b></li>
-  <li><b>Journal Reviewer:TKDE, TKDD, TIST, TNNLS, Information Science, IPM</b></li>
+  <li><b>Conference Reviewer: KDD, ICDE, VLDB, CIKM, PAKDD, ICDE, WebConf, etc.</b></li>
+  <li><b>Journal Reviewer: IJOC, TKDE, TKDD, TIST, TNNLS, Information Science, TOIS, etc.</b></li>
+</ul>
+
+Teaching
+=======
+<ul>
+  <li>Introduction to Databases (CZ2007), Teaching Assistant, 2021 Fall, NTU.</li>
+  <li>Object Oriented Design and Programming (CZ2002), Teaching Assistant, 2021 Spring, NTU.</li>
+  <li>Introduction to Databases (CZ2007), Teaching Assistant, 2020 Fall, NTU.</li>
 </ul>
 
 Industry Experience
