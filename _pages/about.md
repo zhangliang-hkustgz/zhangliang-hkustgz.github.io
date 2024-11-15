@@ -59,8 +59,8 @@ Conference and Workshop Presentations
 Academic Activities
 ======
 <ul>
-  <li><b>Conference Reviewer: KDD, ICDE, VLDB, CIKM, PAKDD, ICDE, WebConf, etc.</b></li>
-  <li><b>Journal Reviewer: IJOC, TKDE, TKDD, TIST, TNNLS, Information Science, TOIS, etc.</b></li>
+  <li><b>Conference Reviewer:</b> KDD, ICDE, VLDB, CIKM, PAKDD, ICDE, WebConf, etc.</li>
+  <li><b>Journal Reviewer:</b> IJOC, TKDE, TKDD, TIST, TNNLS, Information Science, TOIS, etc.</li>
 </ul>
 
 Teaching
