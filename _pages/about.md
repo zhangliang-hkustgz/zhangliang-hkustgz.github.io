@@ -13,7 +13,7 @@ My primary research interests are in the data mining, graph neural network, larg
 
 I am always open to research collaborations. Please feel free to drop me an email if you are interested.
 
-Publications
+Publications (Selected)
 ======
 <p> <sup>#</sup> indicates that Liang is the co-first author, <sup>&dagger;</sup> indicates that Liang is the corresponding author. </p>
 
