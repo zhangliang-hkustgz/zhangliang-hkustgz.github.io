@@ -40,7 +40,10 @@ Papers Under Review
 
 Working Papers
 ======
-1. ddd
+<ul>
+  <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Personalized Bundle Design: A Hypergraph-based Approach with Psychological Distance Awareness. To be submitted to <i>Management Science</i> <b>(MS)</b>.</li>
+  <li>Xiaohui Liu, Yujing Ma, <b>Liang Zhang</b>, Wei Ma, and Hock-Hai Teo. The Effect of Dynamic AI Surge Pricing on Passengers’ Tipping Behavior in Ride-hailing Service: An Empirical Evidence from Uber Platform. To be submitted to <i>Management Science</i> <b>(MS)</b>.</li>
+</ul>
 
 Conference and Workshop Presentations
 ======
