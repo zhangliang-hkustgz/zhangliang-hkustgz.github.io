@@ -31,7 +31,7 @@ Based on Random Walk. In <i>Journal of Management Science </i> <b>(JOMS 2018)</b
 Papers Under Review
 ======
 <ul>
-  <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Money May Be No Object: Modeling Reference-dependent Choices with Graph Neural Networks. In 1st-round major revision at <i>Management Science</i> <b>(MS)</b>.</li>
+  <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Money May Be No Object: Modeling Reference-dependent Choices with Graph Neural Networks. In 1st-round <b>major revision</b> at <i>Management Science</i> <b>(MS)</b>.</li>
 </ul>
 
 Working Papers
