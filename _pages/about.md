@@ -23,7 +23,9 @@ Publications
   <li><b>Liang Zhang</b>, and Cheng Long. Road Network Representation Learning: A Dual Graph based Approach. In <i>ACM Transactions on Knowledge Discovery from Data </i> <b>(TKDD 2023)</b>.</li>
   <li>Ran Li<sup>#</sup>, <b>Liang Zhang<sup>#</sup></b>, Guannan Liu and Junjie Wu. Next Basket Recommendation with Intent-aware Hypergraph Adversarial Network. In <i>Proceedings of International ACM SIGIR Conference on Research and Development in Information Retrieval </i> <b>(SIGIR 2023)</b>.</li>
   <li><b>Liang Zhang</b>, Cheng Long and Gao Cong. Region Embedding with Intra and Inter-View Contrastive Learning. In <i>IEEE Transactions on Knowledge and Data Engineering</i> <b>(TKDE 2022)</b>.</li>
-  <li>Guannan Liu<sup>#</sup>, <b>Liang Zhang<sup>#</sup></b> and Junjie Wu. Beyond Similarity: Relation-based Collaborative Filtering. In <i> IEEE Transactions on Knowledge and Data Engineering </i> <b>(TKDE 2021)</b></li>
+  <li>Guannan Liu<sup>#</sup>, <b>Liang Zhang<sup>#</sup></b> and Junjie Wu. Beyond Similarity: Relation-based Collaborative Filtering. In <i> IEEE Transactions on Knowledge and Data Engineering </i> <b>(TKDE 2021)</b>.</li>
+  <li>Guannan Liu, <b>Liang Zhang</b>, and Baojun Ma. Risk Prediction for Product Return in Electronic Commerce
+Based on Random Walk. In <i>Journal of Management Science </i> <b>(JOMS 2018)</b>.</li>
 </ul>
 
 
