@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my homepage"
+title                    : "Liang Zhang"
 title_separator          : "-"
 name                     : &name "Liang Zhang"
 description              : &description "Associate Research Fellow at HEC Paris <br> Ph.D. Graduate from Nanyang Technological University"
