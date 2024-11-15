@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Associate Research Fellow at HEC Paris, France, working with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/LI-Xitong"> Prof. Xitong Li </a>. I received my Ph.D degree in Computer Science from NTU, Singapore, supervised by <a href="https://personal.ntu.edu.sg/c.long/"> Prof. LONG Cheng. </a> I received my Master's degree in Information System from Beihang University, Beijing, China, in 2020.
+I am an Associate Research Fellow at HEC Paris, France, working with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/LI-Xitong"> Prof. Xitong Li </a>. I received my Ph.D degree in Computer Science from NTU, Singapore, supervised by <a href="https://personal.ntu.edu.sg/c.long/"> Prof. LONG Cheng. </a> I received my Master's degree in Information System from Beihang University, Beijing, China, in 2020.
 
 My primary research interests are in the data mining, graph neural network, large language model, and applied AI (with a focus on developing effective ML methods to solve practical business and society problems). My primary research methods include deep learning, field and laboratory experiments.
 
