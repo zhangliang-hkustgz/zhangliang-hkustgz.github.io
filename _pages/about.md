@@ -48,7 +48,13 @@ Working Papers
 
 Conference and Workshop Presentations
 ======
-1. ddd
+<ul>
+  <li><b>Liang Zhang</b>, Guannan Liu, Junjie Wu, and Yong Tan. Money May Be No Object: Modeling Reference-dependent Choices with Graph Neural Networks for Recommendation. In <i>Conference on Information Systems and Technology</i> <b>(CIST 2024)</b></li>
+  
+  
+</ul>
+  
+  
 
 Academic Activities
 ======
