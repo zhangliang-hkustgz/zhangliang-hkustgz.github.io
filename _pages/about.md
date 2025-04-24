@@ -25,10 +25,10 @@ Open Positions
 I am actively looking for 1-3 PhD students. If you are interested in the PhD program at HKUST(GZ), please send your CV and transcripts to Dr. Ma Wei (liang012@e.ntu.edu.sg) at any time.
 
 <ul>
-  <li>Welcome applications from undergraduate and master's students with backgrounds in finance, computer science, management science and engineering, mathematics, or related fields.</li>
-  <li>Applicants are expected to have basic proficiency in at least one programming language, strong skills in data analysis and programming. </li>
-  <li>Preferred qualifications include prior research experience, academic writing or publication experience, and strong English communication and writing skills. </li>
-  <li>Successful candidates will be offered with full scholarship for PhD students (around 15,000 per month) for 4 years.</li>
+  <li>Welcome applications from undergraduate and master's students with backgrounds in finance, computer science, management science and engineering, mathematics, or related fields </li>
+  <li>Applicants are expected to have basic proficiency in at least one programming language, strong skills in data analysis and programming </li>
+  <li>Preferred qualifications include prior research experience, academic writing or publication experience, and strong English communication and writing skills </li>
+  <li>Successful candidates will be offered with full scholarship for PhD students (around 15,000 per month) for 4 years </li>
 </ul>
 
 <!--  
