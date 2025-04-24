@@ -22,7 +22,7 @@ Research Interests
 
 Open Positions
 ======
-I am actively looking for 1-3 PhD students. If you are interested in the PhD program at HKUST(GZ), please send your CV and transcripts to Dr. Zhang Liang (liang012@e.ntu.edu.sg) at any time.
+I am actively looking for 1-3 PhD students. If you are interested in the PhD program at HKUST(GZ), please send your CV to Dr. Zhang Liang (liang012@e.ntu.edu.sg) at any time.
 
 <ul>
   <li>Welcome applications from undergraduate and master's students with backgrounds in finance, computer science, management science and engineering, mathematics, or related fields </li>
