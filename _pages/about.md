@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Research Fellow at HEC Paris, France, working with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/LI-Xitong"> Prof. Xitong Li </a>. I also worked closely with <a href="https://foster.uw.edu/faculty-research/directory/yong-tan/"> Prof. Yong Tan </a> from University of Washington and <a href="https://semen.buaa.edu.cn/Faculty/Information_Systems/WU_Junjie/Profile.htm"> Prof. Junjie Wu </a> from Beihang University. I received my Ph.D degree in Computer Science from Nanyang Technological University (NTU), supervised by <a href="https://personal.ntu.edu.sg/c.long/"> Prof. Cheng Long </a>. I received my Master's and Bachelor's degrees in Information System from Beihang University (BUAA). 
+I am an incoming Assistant Professor at the FinTech Thrust, HKUST (GZ). Currently, I am an Associate Research Fellow at HEC Paris, France, working with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/LI-Xitong"> Prof. Xitong Li </a>. I also worked closely with <a href="https://foster.uw.edu/faculty-research/directory/yong-tan/"> Prof. Yong Tan </a> from University of Washington and <a href="https://semen.buaa.edu.cn/Faculty/Information_Systems/WU_Junjie/Profile.htm"> Prof. Junjie Wu </a> from Beihang University. I received my Ph.D degree in Computer Science from Nanyang Technological University (NTU), supervised by <a href="https://personal.ntu.edu.sg/c.long/"> Prof. Cheng Long </a>. 
 
 My primary research interests are in the data mining, graph neural network, large language model, and applied AI (with a focus on developing effective ML methods to solve practical business and society problems). My primary research methods include deep learning, field and laboratory experiments.
 
 I am always open to research collaborations. Please feel free to drop me an email if you are interested.
+
+
 
 
 
