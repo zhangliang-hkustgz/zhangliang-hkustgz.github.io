@@ -17,7 +17,6 @@ Research Interests
   <li>Business Intelligence, Recommender System</li>
   <li>Multi-modal Financial Data Modelling</li>
   <li>Data-driven Casual Inference</li>
-  <li>Urban Computing</li>
 </ul>
 
 Open Positions
