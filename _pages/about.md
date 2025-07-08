@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Assistant Professor in the FinTech Thrust at HKUST (Guangzhou). Prior to this, I served as an Associate Research Fellow at HEC Paris, France, working with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/LI-Xitong"> Prof. Xitong Li </a>. I also worked closely with <a href="https://foster.uw.edu/faculty-research/directory/yong-tan/"> Prof. Yong Tan </a> from University of Washington and <a href="https://semen.buaa.edu.cn/Faculty/Information_Systems/WU_Junjie/Profile.htm"> Prof. Junjie Wu </a> from Beihang University. I received my Ph.D degree in Computer Science from Nanyang Technological University (NTU), supervised by <a href="https://personal.ntu.edu.sg/c.long/"> Prof. Cheng Long </a>. My research focuses on data mining, graph neural networks, large language models, and applied AI, with an emphasis on developing effective machine learning methods to solve practical business and society problems.
+I am currently an Assistant Professor in the FinTech Thrust at HKUST (Guangzhou). Prior to this, I served as an Associate Research Fellow at HEC Paris, France, working with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/LI-Xitong"> Prof. Xitong Li </a>. I also worked closely with <a href="https://foster.uw.edu/faculty-research/directory/yong-tan/"> Prof. Yong Tan </a> from University of Washington and <a href="https://semen.buaa.edu.cn/Faculty/Information_Systems/WU_Junjie/Profile.htm"> Prof. Junjie Wu </a> from Beihang University. I received my Ph.D in Computer Science from Nanyang Technological University (NTU), supervised by <a href="https://personal.ntu.edu.sg/c.long/"> Prof. Cheng Long </a>. My research focuses on data mining, graph neural networks, large language models, and applied AI, with an emphasis on developing effective machine learning methods to solve practical business and society problems.
 
 Research Interests
 ======
@@ -23,7 +23,7 @@ Open Positions
 I am actively looking for PhD and RA students. If you are interested in the PhD program at HKUST(GZ), please send your CV to Dr. Zhang Liang (<a href="mailto:liang012@e.ntu.edu.sg">liang012@e.ntu.edu.sg</a>) at any time.
 
 <ul>
-  <li>Welcome applications from undergraduate and master's students with backgrounds in finance, computer science, management science and engineering, mathematics, or related fields </li>
+  <li>Welcome applications from undergraduate and master's students with backgrounds in finance, computer science, management science, mathematics, or related fields </li>
   <li>Applicants are expected to have basic proficiency in at least one programming language, strong skills in data analysis and programming </li>
   <li>Preferred qualifications include prior research experience, academic writing or publication experience, and strong English communication and writing skills </li>
   <li>Successful candidates will be offered with full scholarship for PhD students (around 15,000 per month) for 4 years </li>
