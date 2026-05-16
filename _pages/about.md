@@ -12,10 +12,11 @@ Research Interests
 ======
 <ul>
   <li>LLM-driven Marketing and Financial Technology </li>
-  <li>Machine Learning in Digital Economy</li>
-  <li>Business Intelligence, Recommender System</li>
+  <!-- <li>Machine Learning in Digital Economy</li> -->
   <li>Multi-modal Financial Data Modelling</li>
-  <li>Data-driven Casual Inference</li>
+  <li>LLM Reasoning, Agentic AI, Graph Machine Learning</li>
+  <li>Business Intelligence, Recommender System</li>
+  <!-- <li>Data-driven Casual Inference</li> -->
 </ul>
 
 Open Positions
