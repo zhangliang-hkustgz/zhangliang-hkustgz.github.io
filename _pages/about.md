@@ -11,12 +11,9 @@ I am currently an Assistant Professor in the FinTech Thrust at HKUST (Guangzhou)
 Research Interests
 ======
 <ul>
-  <li>LLM-driven Marketing and Financial Technology </li>
-  <!-- <li>Machine Learning in Digital Economy</li> -->
-  <li>Multi-modal Financial Data Modelling</li>
-  <li>LLM Reasoning, Agentic AI, Graph Machine Learning</li>
-  <li>Business Intelligence, Recommender System</li>
-  <!-- <li>Data-driven Casual Inference</li> -->
+  <li>General LLM Intelligence</li>
+  <li>Financial Intelligence</li>
+  <li>Digital Platform Intelligence</li>
 </ul>
 
 Open Positions
