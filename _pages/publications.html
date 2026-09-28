@@ -5,10 +5,48 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="publication-switch" role="group" aria-label="Publication order">
+<!-- <div class="publication-switch" role="group" aria-label="Publication order">
   <button type="button" id="show-topic" aria-pressed="true">By Topic</button>
   <button type="button" id="show-year" aria-pressed="false">By Year</button>
-</div>
+</div> -->
+
+<style>
+.publication-tabs {
+  display: flex;
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.publication-tabs button {
+  appearance: none;
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  padding: 0.5rem 0 0.65rem;
+  margin-bottom: -1px;
+  color: #666;
+  font: inherit;
+  cursor: pointer;
+}
+
+.publication-tabs button:hover {
+  color: #222;
+}
+
+.publication-tabs button[aria-pressed="true"] {
+  color: #222;
+  font-weight: 600;
+  border-bottom-color: #222;
+}
+</style>
+
+<nav class="publication-tabs" aria-label="Publication order">
+  <button type="button" id="show-topic" aria-pressed="true">By Topic</button>
+  <button type="button" id="show-year" aria-pressed="false">By Year</button>
+</nav>
+
 
 <!--
 {% if site.author.googlescholar %}
